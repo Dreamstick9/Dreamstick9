@@ -2,11 +2,11 @@
 
 ### Hi there, I'm Kushagar 
 
-I am a first-year B.Tech Computer Science & Artificial Intelligence student at Rishihood University. I am highly focused on the intersection of software engineering and applied cybersecurity—writing the logic to build systems and understanding the mechanics to test them.
+I am a first year B.Tech Computer Science & Artificial Intelligence student at Rishihood University. I am highly focused on the intersection of software engineering and applied cybersecurity writing the logic to build systems and understanding the mechanics to test them.
 
 **What I'm currently focused on:**
-* **Backend & Algorithms:** Consistently solving data structures and algorithms problems in Python to build strong problem-solving fundamentals.
-* **Applied Cybersecurity:** Actively practicing offensive security concepts and tool mechanics (like Nmap) through hands-on TryHackMe labs.
+* **Backend & Algorithms:** Consistently solving data structures and algorithms problems in Python to build strong problem solving fundamentals.
+* **Applied Cybersecurity:** Actively practicing offensive security concepts and tool mechanics (like Nmap) through hands on TryHackMe labs.
 * **Architecture & Workflows:** Learning to navigate large codebases and utilizing standard Git/GitHub workflows for collaborative development.
 * **Hardware Engineering:** Designing custom PCBs and macropads using KiCad to understand systems from the bare metal up.
 
