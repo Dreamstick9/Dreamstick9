@@ -13,6 +13,6 @@ I am a first year B.Tech Computer Science & Artificial Intelligence student at R
 **Core Stack & Tools:**
 * **Languages:** Python, JavaScript (Foundational web logic)
 * **Security & Systems:** Linux environments, standard security tooling, TryHackMe
-* **Tools/Hardware:** Git, GitHub, KiCad
+* **Tools/Hardware:** Git, GitHub, KiCad, Fusion 360
 
  **Let's connect:** kushagar.g25650@nst.rishihood.edu.in
