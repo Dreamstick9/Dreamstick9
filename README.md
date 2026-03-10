@@ -8,7 +8,7 @@ I am a first year B.Tech Computer Science & Artificial Intelligence student at R
 * **Backend & Algorithms:** Consistently solving data structures and algorithms problems in Python to build strong problem solving fundamentals.
 * **Applied Cybersecurity:** Actively practicing offensive security concepts and tool mechanics (like Nmap) through hands on TryHackMe labs.
 * **Architecture & Workflows:** Learning to navigate large codebases and utilizing standard Git/GitHub workflows for collaborative development.
-* **Hardware Engineering:** Designing custom PCBs and macropads using KiCad to understand systems from the bare metal up.
+* **Hardware Engineering:** Designing custom PCBs and macropads using KiCad to understannd systems from the bare metal up.
 
 **Core Stack & Tools:**
 * **Languages:** Python, JavaScript (Foundational web logic)
